@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-cmv12g.lapinandwolf.co.nz/sitemap.xml
